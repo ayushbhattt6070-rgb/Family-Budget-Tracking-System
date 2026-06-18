@@ -1,0 +1,321 @@
+{
+  "user1": {
+    "active_challenges": [
+      {
+        "name": "Save \u20b95000 Challenge",
+        "description": "Keep your monthly spending under budget to save \u20b95000",
+        "target": 5000,
+        "reward": "\ud83d\udcb0 Savings Champion",
+        "points": 200,
+        "id": "save_5000",
+        "progress": 0,
+        "started_at": "2025-10-25"
+      }
+    ],
+    "completed_challenges": [],
+    "total_points": 0
+  },
+  "user_1": {
+    "active_challenges": [],
+    "completed_challenges": [
+      {
+        "name": "Save \u20b95000 Challenge",
+        "description": "Keep your monthly spending under budget to save \u20b95000",
+        "target": 5000,
+        "reward": "\ud83d\udcb0 Savings Champion",
+        "points": 200,
+        "id": "save_5000",
+        "progress": 33000.0,
+        "started_at": "2025-10-25"
+      }
+    ],
+    "total_points": 200
+  },
+  "user_2": {
+    "active_challenges": [],
+    "completed_challenges": [],
+    "total_points": 0
+  },
+  "user_4": {
+    "active_challenges": [],
+    "completed_challenges": [],
+    "total_points": 0
+  },
+  "Shaurya Sonkar": {
+    "active_challenges": [
+      {
+        "name": "No-Spend Day Challenge",
+        "description": "Complete 5 days without any expenses",
+        "target": 5,
+        "reward": "\u2b50 Budget Master Badge",
+        "points": 100,
+        "id": "no_spend_day",
+        "progress": 0,
+        "started_at": "2025-11-02"
+      },
+      {
+        "name": "No-Spend Day Challenge",
+        "description": "Complete 5 days without any expenses",
+        "target": 5,
+        "reward": "\u2b50 Budget Master Badge",
+        "points": 100,
+        "id": "no_spend_day",
+        "progress": 0,
+        "started_at": "2025-11-02"
+      }
+    ],
+    "completed_challenges": [
+      {
+        "name": "Category Budget Challenge",
+        "description": "Stay within budget for Food category (\u20b98000)",
+        "target": 8000,
+        "reward": "\ud83c\udf54 Food Budget Hero",
+        "points": 150,
+        "id": "category_limit",
+        "progress": 8000.0,
+        "started_at": "2025-11-02"
+      }
+    ],
+    "total_points": 150
+  },
+  "Sahiba": {
+    "active_challenges": [],
+    "completed_challenges": [],
+    "total_points": 0
+  },
+  "Arjun": {
+    "active_challenges": [],
+    "completed_challenges": [],
+    "total_points": 0
+  },
+  "sanya": {
+    "active_challenges": [],
+    "completed_challenges": [
+      {
+        "name": "Save \u20b95000 Challenge",
+        "description": "Keep your monthly spending under budget to save \u20b95000",
+        "target": 5000,
+        "reward": "\ud83d\udcb0 Savings Champion",
+        "points": 200,
+        "id": "save_5000",
+        "progress": 49890.0,
+        "started_at": "2025-11-02"
+      },
+      {
+        "name": "Save \u20b95000 Challenge",
+        "description": "Keep your monthly spending under budget to save \u20b95000",
+        "target": 5000,
+        "reward": "\ud83d\udcb0 Savings Champion",
+        "points": 200,
+        "id": "save_5000",
+        "progress": 48890.0,
+        "started_at": "2025-11-02"
+      }
+    ],
+    "total_points": 400
+  },
+  "Sharma": {
+    "active_challenges": [],
+    "completed_challenges": [],
+    "total_points": 0
+  },
+  "Rohit": {
+    "active_challenges": [
+      {
+        "name": "No-Spend Day Challenge",
+        "description": "Complete 5 days without any expenses",
+        "target": 5,
+        "reward": "\u2b50 Budget Master Badge",
+        "points": 100,
+        "id": "no_spend_day",
+        "progress": 0,
+        "started_at": "2025-11-05"
+      }
+    ],
+    "completed_challenges": [
+      {
+        "name": "Save \u20b95000 Challenge",
+        "description": "Keep your monthly spending under budget to save \u20b95000",
+        "target": 5000,
+        "reward": "\ud83d\udcb0 Savings Champion",
+        "points": 200,
+        "id": "save_5000",
+        "progress": 48000.0,
+        "started_at": "2025-11-05"
+      }
+    ],
+    "total_points": 200
+  },
+  "Rehman": {
+    "active_challenges": [
+      {
+        "name": "Save \u20b95000 Challenge",
+        "description": "Keep your monthly spending under budget to save \u20b95000",
+        "target": 5000,
+        "reward": "\ud83d\udcb0 Savings Champion",
+        "points": 200,
+        "id": "save_5000",
+        "progress": 0,
+        "started_at": "2025-11-05"
+      }
+    ],
+    "completed_challenges": [],
+    "total_points": 0
+  },
+  "Sneha": {
+    "active_challenges": [],
+    "completed_challenges": [],
+    "total_points": 0
+  },
+  "hari": {
+    "active_challenges": [
+      {
+        "name": "Save \u20b95000 Challenge",
+        "description": "Keep your monthly spending under budget to save \u20b95000",
+        "target": 5000,
+        "reward": "\ud83d\udcb0 Savings Champion",
+        "points": 200,
+        "id": "save_5000",
+        "progress": 0,
+        "started_at": "2025-11-06"
+      }
+    ],
+    "completed_challenges": [],
+    "total_points": 0
+  },
+  "sanju": {
+    "active_challenges": [],
+    "completed_challenges": [
+      {
+        "name": "Save \u20b95000 Challenge",
+        "description": "Keep your monthly spending under budget to save \u20b95000",
+        "target": 5000,
+        "reward": "\ud83d\udcb0 Savings Champion",
+        "points": 200,
+        "id": "save_5000",
+        "progress": 50000.0,
+        "started_at": "2025-11-05"
+      }
+    ],
+    "total_points": 200
+  },
+  "shivam": {
+    "active_challenges": [],
+    "completed_challenges": [],
+    "total_points": 0
+  },
+  "Suleman": {
+    "active_challenges": [
+      {
+        "name": "No-Spend Day Challenge",
+        "description": "Complete 5 days without any expenses",
+        "target": 5,
+        "reward": "\u2b50 Budget Master Badge",
+        "points": 100,
+        "id": "no_spend_day",
+        "progress": 0,
+        "started_at": "2025-11-06"
+      }
+    ],
+    "completed_challenges": [
+      {
+        "name": "Save \u20b95000 Challenge",
+        "description": "Keep your monthly spending under budget to save \u20b95000",
+        "target": 5000,
+        "reward": "\ud83d\udcb0 Savings Champion",
+        "points": 200,
+        "id": "save_5000",
+        "progress": 50000.0,
+        "started_at": "2025-11-06"
+      },
+      {
+        "name": "Save \u20b95000 Challenge",
+        "description": "Keep your monthly spending under budget to save \u20b95000",
+        "target": 5000,
+        "reward": "\ud83d\udcb0 Savings Champion",
+        "points": 200,
+        "id": "save_5000",
+        "progress": 49000.0,
+        "started_at": "2025-11-06"
+      },
+      {
+        "name": "Save \u20b95000 Challenge",
+        "description": "Keep your monthly spending under budget to save \u20b95000",
+        "target": 5000,
+        "reward": "\ud83d\udcb0 Savings Champion",
+        "points": 200,
+        "id": "save_5000",
+        "progress": 48800.0,
+        "started_at": "2025-11-06"
+      },
+      {
+        "name": "Save \u20b95000 Challenge",
+        "description": "Keep your monthly spending under budget to save \u20b95000",
+        "target": 5000,
+        "reward": "\ud83d\udcb0 Savings Champion",
+        "points": 200,
+        "id": "save_5000",
+        "progress": 48800.0,
+        "started_at": "2025-11-06"
+      }
+    ],
+    "total_points": 800
+  },
+  "Ayush": {
+    "active_challenges": [],
+    "completed_challenges": [],
+    "total_points": 0
+  },
+  "Manoj": {
+    "active_challenges": [],
+    "completed_challenges": [
+      {
+        "name": "Category Budget Challenge",
+        "description": "Stay within budget for Food category (\u20b98000)",
+        "target": 8000,
+        "reward": "\ud83c\udf54 Food Budget Hero",
+        "points": 150,
+        "id": "category_limit",
+        "progress": 3000.0,
+        "started_at": "2025-11-07"
+      }
+    ],
+    "total_points": 150
+  },
+  "Mohan": {
+    "active_challenges": [],
+    "completed_challenges": [],
+    "total_points": 0
+  },
+  "ayush": {
+    "active_challenges": [],
+    "completed_challenges": [],
+    "total_points": 0
+  },
+  "chitrashi": {
+    "active_challenges": [
+      {
+        "name": "No-Spend Day Challenge",
+        "description": "Complete 5 days without any expenses",
+        "target": 5,
+        "reward": "\u2b50 Budget Master Badge",
+        "points": 100,
+        "id": "no_spend_day",
+        "progress": 1,
+        "started_at": "2026-05-15"
+      }
+    ],
+    "completed_challenges": [],
+    "total_points": 0
+  },
+  "anurag": {
+    "active_challenges": [],
+    "completed_challenges": [],
+    "total_points": 0
+  },
+  "sakshi": {
+    "active_challenges": [],
+    "completed_challenges": [],
+    "total_points": 0
+  }
+}
